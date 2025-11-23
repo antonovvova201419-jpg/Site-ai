@@ -1,0 +1,5 @@
+{
+  "name": "FileExt Encyclopedia AI",
+  "description": "Интеллектуальный справочник расширений файлов. Узнайте всё о форматах, совместимости ОС и технологиях с помощью Gemini AI.",
+  "requestFramePermissions": []
+}
